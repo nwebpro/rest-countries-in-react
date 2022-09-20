@@ -1,0 +1,8 @@
+.country-wrapper {
+    background-color: #ddd;
+    padding: 20px 5px;
+    border-radius: 10px;
+}
+.country-wrapper img {
+    width: 100px;
+}
